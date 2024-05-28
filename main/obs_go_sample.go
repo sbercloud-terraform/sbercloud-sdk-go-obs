@@ -25,7 +25,7 @@ import (
 )
 
 const (
-	endpoint   = "https://your-endpoint"
+	endpoint   = "obs.ru-moscow-1.hc.sbercloud.ru"
 	ak         = "*** Provide your Access Key ***"
 	sk         = "*** Provide your Secret Key ***"
 	bucketName = "bucket-test"
